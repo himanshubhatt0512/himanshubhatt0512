@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Bhatt</h1>
 <h3 align="center">A passionate coder/developer from India</h3>
 
-- 🔭 I’m currently working on **Java Development**
+- 🔭 I’m interested in **Java Development**
 
 - 🌱 I’m currently learning **Spring Framework**
 
