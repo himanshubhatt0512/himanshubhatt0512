@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Bhatt</h1>
 
-- 🔭 I’m interested in **Software Development**
+- 🔭 I’m in **Software Development**
 
 - 🌱 I’m currently learning **Spring Framework**
 
